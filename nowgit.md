@@ -25,10 +25,10 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/Focuz-pages/ | ⏳ Pending (repo not created) |
-| Support | https://asunnyboy861.github.io/Focuz-pages/support.html | ⏳ Pending (repo not created) |
-| Privacy Policy | https://asunnyboy861.github.io/Focuz-pages/privacy.html | ⏳ Pending (repo not created) |
-| Terms of Use | https://asunnyboy861.github.io/Focuz-pages/terms.html | ⏳ Pending (repo not created) |
+| Landing Page | https://asunnyboy861.github.io/Focuz-pages/ | ✅ **LIVE** |
+| Support | https://asunnyboy861.github.io/Focuz-pages/support.html | ✅ **LIVE** |
+| Privacy Policy | https://asunnyboy861.github.io/Focuz-pages/privacy.html | ✅ **LIVE** |
+| Terms of Use | https://asunnyboy861.github.io/Focuz-pages/terms.html | ✅ **LIVE** |
 
 ## Screenshots
 
@@ -59,11 +59,11 @@
 - [x] Create icon configuration (icon.md)
 - [x] Create policy pages (Focuz-pages/)
 - [x] Initialize main app git repository
-- [ ] Create GitHub repository: asunnyboy861/Focuz
-- [ ] Push main app code to GitHub
-- [ ] Create GitHub repository: asunnyboy861/Focuz-pages
-- [ ] Push policy pages to GitHub
-- [ ] Enable GitHub Pages on Focuz-pages repository
+- [x] Create GitHub repository: asunnyboy861/Focuz
+- [x] Push main app code to GitHub
+- [x] Create GitHub repository: asunnyboy861/Focuz-pages
+- [x] Push policy pages to GitHub
+- [x] Enable GitHub Pages on Focuz-pages repository
 - [ ] Submit to App Store Connect
 
 ## Repository Structure
