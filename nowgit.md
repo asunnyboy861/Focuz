@@ -25,10 +25,46 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/Focuz-pages/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/Focuz-pages/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/Focuz-pages/privacy.html | ⏳ Pending |
-| Terms of Use | https://asunnyboy861.github.io/Focuz-pages/terms.html | ⏳ Pending |
+| Landing Page | https://asunnyboy861.github.io/Focuz-pages/ | ⏳ Pending (repo not created) |
+| Support | https://asunnyboy861.github.io/Focuz-pages/support.html | ⏳ Pending (repo not created) |
+| Privacy Policy | https://asunnyboy861.github.io/Focuz-pages/privacy.html | ⏳ Pending (repo not created) |
+| Terms of Use | https://asunnyboy861.github.io/Focuz-pages/terms.html | ⏳ Pending (repo not created) |
+
+## Screenshots
+
+### iPhone Screenshots (1242×2688)
+| File | Screen | Status |
+|------|--------|--------|
+| iphone_01_today.png | Today View | ✅ Generated |
+| iphone_02_insights.png | Insights View | ✅ Generated |
+| iphone_03_build.png | Habit Builder | ✅ Generated |
+| iphone_03_today_habits.png | Today with Habits | ✅ Generated |
+| iphone_04_settings.png | Settings | ✅ Generated |
+
+### iPad Screenshots (2064×2752)
+| File | Screen | Status |
+|------|--------|--------|
+| ipad_01_today.png | Today View | ✅ Generated |
+| ipad_02_insights.png | Insights View | ✅ Generated |
+| ipad_03_build.png | Habit Builder | ✅ Generated |
+| ipad_04_settings.png | Settings | ✅ Generated |
+
+## Deployment Checklist
+
+- [x] Generate iPhone screenshots (5)
+- [x] Generate iPad screenshots (4)
+- [x] Create App Store metadata (keytext.md)
+- [x] Create price configuration (price.md)
+- [x] Create capabilities guide (capabilities.md)
+- [x] Create icon configuration (icon.md)
+- [x] Create policy pages (Focuz-pages/)
+- [x] Initialize main app git repository
+- [ ] Create GitHub repository: asunnyboy861/Focuz
+- [ ] Push main app code to GitHub
+- [ ] Create GitHub repository: asunnyboy861/Focuz-pages
+- [ ] Push policy pages to GitHub
+- [ ] Enable GitHub Pages on Focuz-pages repository
+- [ ] Submit to App Store Connect
 
 ## Repository Structure
 
