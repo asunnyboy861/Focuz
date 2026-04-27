@@ -1,6 +1,6 @@
 # Xcode
 *.xcworkspace
-*.xcodeproj/
+# *.xcodeproj/  # Keep project file for compatibility
 build/
 DerivedData/
 *.pbxuser
